@@ -1,0 +1,36 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/CleverProgrammer/cp-barebone-movie-app-final.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "step_11_final_movie_app"]
+	remote = origin
+[branch "step_11_final_movie_app"]
+	merge = refs/heads/step_11_final_movie_app
+[branch "step_1_ugly_home_page"]
+	remote = origin
+	merge = refs/heads/step_1_ugly_home_page
+[branch "step_2_beautiful_home_page"]
+	remote = origin
+	merge = refs/heads/step_2_beautiful_home_page
+[branch "step_3_create_movies_frontend"]
+	remote = origin
+	merge = refs/heads/step_3_create_movies_frontend
+[branch "step_4_create_movies_backend"]
+	remote = origin
+	merge = refs/heads/step_4_create_movies_backend
+[branch "step_5_movie_details"]
+	remote = origin
+	merge = refs/heads/step_5_movie_details
+[branch "step_6_edit_movies_frontend"]
+	remote = origin
+	merge = refs/heads/step_6_edit_movies_frontend
+[branch "step_7_edit_movies_backend"]
+	remote = origin
+	merge = refs/heads/step_7_edit_movies_backend

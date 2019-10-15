@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 58dad9604580593a154d041fb7b49b5359210369 dax <dax.dacosta@gmail.com> 1569344691 +0000	clone: from https://github.com/CleverProgrammer/cp-barebone-movie-app-final.git
+58dad9604580593a154d041fb7b49b5359210369 acf61494da47ac92c84e0d92bd555f676df0cc11 dax <dax.dacosta@gmail.com> 1569345619 +0000	checkout: moving from master to step_11_final_movie_app
+acf61494da47ac92c84e0d92bd555f676df0cc11 acf61494da47ac92c84e0d92bd555f676df0cc11 dax <dax.dacosta@gmail.com> 1569361177 +0000	checkout: moving from step_11_final_movie_app to step_11_final_movie_app
+acf61494da47ac92c84e0d92bd555f676df0cc11 b5957352696cccad91c98ad0c1889ccdfb7c4895 dax <dax.dacosta@gmail.com> 1569480560 +0000	checkout: moving from step_11_final_movie_app to step_1_ugly_home_page
+b5957352696cccad91c98ad0c1889ccdfb7c4895 58dad9604580593a154d041fb7b49b5359210369 dax <dax.dacosta@gmail.com> 1569480819 +0000	checkout: moving from step_1_ugly_home_page to master
+58dad9604580593a154d041fb7b49b5359210369 b5957352696cccad91c98ad0c1889ccdfb7c4895 dax <dax.dacosta@gmail.com> 1569542428 +0000	checkout: moving from master to step_1_ugly_home_page
+b5957352696cccad91c98ad0c1889ccdfb7c4895 58dad9604580593a154d041fb7b49b5359210369 dax <dax.dacosta@gmail.com> 1569543031 +0000	checkout: moving from step_1_ugly_home_page to master
+58dad9604580593a154d041fb7b49b5359210369 b5957352696cccad91c98ad0c1889ccdfb7c4895 dax <dax.dacosta@gmail.com> 1569637357 +0000	checkout: moving from master to step_1_ugly_home_page
+b5957352696cccad91c98ad0c1889ccdfb7c4895 58dad9604580593a154d041fb7b49b5359210369 dax <dax.dacosta@gmail.com> 1569637526 +0000	checkout: moving from step_1_ugly_home_page to master
+58dad9604580593a154d041fb7b49b5359210369 b5957352696cccad91c98ad0c1889ccdfb7c4895 dax <dax.dacosta@gmail.com> 1569719560 +0000	checkout: moving from master to step_1_ugly_home_page
+b5957352696cccad91c98ad0c1889ccdfb7c4895 b5957352696cccad91c98ad0c1889ccdfb7c4895 dax <dax.dacosta@gmail.com> 1570348737 +0000	checkout: moving from step_1_ugly_home_page to step_1_ugly_home_page
+b5957352696cccad91c98ad0c1889ccdfb7c4895 b5957352696cccad91c98ad0c1889ccdfb7c4895 dax <dax.dacosta@gmail.com> 1570350024 +0000	checkout: moving from step_1_ugly_home_page to step_1_ugly_home_page
+b5957352696cccad91c98ad0c1889ccdfb7c4895 ff6638f33bb7dd00a611d0cc10a360a133c24520 dax <dax.dacosta@gmail.com> 1570403078 +0000	checkout: moving from step_1_ugly_home_page to step_2_beautiful_home_page
+ff6638f33bb7dd00a611d0cc10a360a133c24520 8e77a8fbcf7f55ce9c7221087ff1012d23e594d0 dax <dax.dacosta@gmail.com> 1570713983 +0000	checkout: moving from step_2_beautiful_home_page to step_3_create_movies_frontend
+8e77a8fbcf7f55ce9c7221087ff1012d23e594d0 64e70aed47f22b17b2475de1fe39b5affe570bd8 dax <dax.dacosta@gmail.com> 1570913842 +0000	checkout: moving from step_3_create_movies_frontend to step_4_create_movies_backend
+64e70aed47f22b17b2475de1fe39b5affe570bd8 e7c240895aa1fdd0a8cb2351dabe89ac94397553 dax <dax.dacosta@gmail.com> 1570951162 +0000	checkout: moving from step_4_create_movies_backend to step_5_movie_details
+e7c240895aa1fdd0a8cb2351dabe89ac94397553 7f6e24544a7dbd06dc05a4d2381169da162015e5 dax <dax.dacosta@gmail.com> 1570953816 +0000	checkout: moving from step_5_movie_details to step_6_edit_movies_frontend
+7f6e24544a7dbd06dc05a4d2381169da162015e5 7f6e24544a7dbd06dc05a4d2381169da162015e5 dax <dax.dacosta@gmail.com> 1571007414 +0000	checkout: moving from step_6_edit_movies_frontend to step_6_edit_movies_frontend
+7f6e24544a7dbd06dc05a4d2381169da162015e5 1aa0e95893a08cfbb6a8950010730ea46863a1a2 dax <dax.dacosta@gmail.com> 1571068903 +0000	checkout: moving from step_6_edit_movies_frontend to step_7_edit_movies_backend
